@@ -13,3 +13,5 @@ We take the features of the dataset and train NN with the dataset. Later we will
 We later use PCA for dimensionality reduction for speed and imporvement in accuracy and predict the likely images.
 
 There are many algorithms where we can use for Nearest Neighbors like Brute force, Annoy, Flann, NGT, Faiss etc., but here as a classical process we are considering brute force algorithm
+
+In the End, we will plot with TSNE all the likely images in the dataset in 2-d format.
